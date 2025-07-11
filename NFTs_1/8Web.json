@@ -1,0 +1,25 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Agasshi #8",
+  "description": "This NFT is part of the exclusive Agasshi collection, where art meets sensuality. A unique digital image capturing beauty and charisma in a distinctive style. Each token is not just a picture but a key to a world of aesthetics, eroticism, and digital luxury.",
+  "series_number": 8,
+  "collection": {
+    "id": "999d820e-ecdc-4654-81a7-01323acbcdac",
+    "name": "Agasshi",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Agasshi is an exclusive NFT collection that embodies the aesthetics of sensuality and beauty. Each image in the collection is a masterfully captured portrayal of charming and alluring women, blending elegance and boldness."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Agasshi/refs/heads/main/icon.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Agasshi/refs/heads/main/fon.png"
+      }
+    ]
+  }
+}
